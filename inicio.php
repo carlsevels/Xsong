@@ -17,7 +17,11 @@
     <a class="nav-link disabled" href="#"><button type="submit" value="Iniciar sesion" class="btn btn-sm" id="is">Iniciar sesion</button></a>
   </li>
 </ul>
+<<<<<<< HEAD
 <h1>Hola</h1>
+=======
+	<h1>Hola</h1>
+>>>>>>> d85759e2689ca89da8dfda2323da0f3855888464
 <script src="js/top.js"></script>
 <body>
 

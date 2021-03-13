@@ -1,0 +1,17 @@
+button, #is{
+	position: absolute; 
+	color: #fff; 
+	background: #006F19; 
+}
+
+button, #is:hover{
+		background: #329717;
+}
+
+button, #cs{
+	background: #810000;
+}
+
+button, #cs:hover{
+	background-color: #B30000;
+}
